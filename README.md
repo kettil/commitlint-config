@@ -5,6 +5,8 @@
 ![Release](https://github.com/kettil/commitlint-config/workflows/Release/badge.svg)
 ![GitHub](https://img.shields.io/github/license/kettil/commitlint-config)
 
+⚠️ The project has moved to a [new repository](https://github.com/kettil/ts-toolbox/tree/main/packages/commitlint-config) ⚠️
+
 The library contains the commitlint configuration.
 
 ## Installation
